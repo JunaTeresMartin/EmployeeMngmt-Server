@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "id": "100",
+      "name": "Juna Teres Martin",
+      "email": "junateresmartin@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "101",
+      "name": "Abhay",
+      "email": "abhay@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "103",
+      "name": "Gayathry Sunil",
+      "email": "gayathry@gmail.com",
+      "status": "inactive"
+    },
+    {
+      "id": "105",
+      "name": "Vyshakh",
+      "email": "vyshakh@gmail.com",
+      "status": "inactive"
+    }
+  ]
+}
